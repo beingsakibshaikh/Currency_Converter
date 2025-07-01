@@ -1,0 +1,7 @@
+[
+    { "code": "usd", "name": "United States Dollar", "flag": "https://flagcdn.com/24x18/us.png" },
+    { "code": "inr", "name": "Indian Rupee", "flag": "https://flagcdn.com/24x18/in.png" },
+    { "code": "eur", "name": "Euro", "flag": "https://flagcdn.com/24x18/eu.png" },
+    { "code": "bitcoin", "name": "Bitcoin", "flag": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=1" },
+    { "code": "ethereum", "name": "Ethereum", "flag": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=1" }
+  ]
